@@ -1,2 +1,2 @@
 print("Welcome to Devops")
-print("Learn Devops")
+print("Devops project")
